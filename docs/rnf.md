@@ -1,4 +1,4 @@
-## 2. Requisitos Não Funcionais (RNF)
+## Requisitos Não Funcionais (RNF)
 
 ### RNF01 — Tempo de resposta
 O sistema deve carregar telas principais em até **2 segundos**.
